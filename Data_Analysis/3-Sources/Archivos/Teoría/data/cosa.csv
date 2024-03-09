@@ -1,0 +1,11 @@
+,Column1,season,division,round,localTeam,visitorTeam,localGoals,visitorGoals,date,timestamp
+0,26201,2005-06-01,1,1,Atletico de Bilbao,Real Sociedad,3,0,2005-08-27,1125093600
+1,26202,2005-06-01,1,1,Alaves,Barcelona,0,0,2005-08-27,1125093600
+2,26203,2005-06-01,1,1,Valencia,Betis,1,0,2005-08-27,1125093600
+3,26204,2005-06-01,1,1,Atletico de Madrid,Zaragoza,0,0,2005-08-28,1125180000
+4,26205,2005-06-01,1,1,Cadiz,Real Madrid,1,2,2005-08-28,1125180000
+5,26206,2005-06-01,1,1,Celta de Vigo,Malaga,2,0,2005-08-28,1125180000
+6,26207,2005-06-01,1,1,Espanol,Getafe,0,2,2005-08-28,1125180000
+7,26208,2005-06-01,1,1,Mallorca,Deportivo,0,1,2005-08-28,1125180000
+8,26209,2005-06-01,1,1,Osasuna,Villarreal,2,1,2005-08-28,1125180000
+9,26210,2005-06-01,1,1,Sevilla,Santander,1,0,2005-08-28,1125180000
